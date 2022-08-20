@@ -1,0 +1,8 @@
+---
+mail_server: mail.example.com
+smtp_port: 587
+username: testuser
+password: testpassword
+subject: Test Email
+destination: dest@examle.com
+message: Test Message
